@@ -1,2 +1,0 @@
-# Map-Generator
-Map Generator
